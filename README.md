@@ -3,7 +3,7 @@
 ## Full Resume
 
 * [PDF](https://github.com/martycow/schudaev_resume/blob/main/Unity%20Engineer%20Resume.pdf)
-* [DOCX](https://github.com/martycow/schudaev_resume/blob/main/Unity%20Engineer%20Resume.docx?raw=1)
+* [DOCX](https://github.com/martycow/schudaev_resume/raw/refs/heads/main/Unity%20Engineer%20Resume.docx)
 
 ## Brief
 
