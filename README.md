@@ -1,6 +1,15 @@
-# Viacheslav "Slava" Chudaev - Unity Game
+# Viacheslav "Slava" Chudaev - Unity Gameplay Engineer
 
-| Field                          | Value                                                     |
+## Full Resume
+
+* [PDF](https://github.com/martycow/schudaev_resume/blob/main/Unity%20Engineer%20Resume.pdf)
+* [DOCX](https://github.com/martycow/schudaev_resume/blob/main/Unity%20Engineer%20Resume.docx?raw=1)
+
+## Brief
+
+### Primary Info
+
+|                                |                                                           |
 |--------------------------------|-----------------------------------------------------------|
 | Full name                      | **Viacheslav**                                            |
 | Short name                     | Slava                                                     |
@@ -8,26 +17,58 @@
 | Nickname                       | martycow                                                  |
 | Authorized to work in the U.S. | Yes                                                       |
 | Need visa sponsorship          | No                                                        |
-| | |
+
+### Contact Info
+
+|                                |                                                           |
+|--------------------------------|-----------------------------------------------------------|
 | E-mail                         | schudaev@gmail.com                                        |
 | LinkedIn                       | https://www.linkedin.com/in/vchudaev                      |
-| Location                       | Portland, Oregon, United States                           |
-| | |
+| Location                       | Portland, OR                                              |
+
+### Preferences
+
+|                                |                                                           |
+|--------------------------------|-----------------------------------------------------------|
 | Job type                       | **Full-time**                                             |
 | Location type                  | Remote, Hybrid, On-Site                                   |
 | Preferable location            | **Remote** or **On-Site in Portland, OR**                 |
-| Relocation                     | **WA**, **CA**, **CO**, **MA**, **IL**                    |
-| | |
-| Languages                      | C#, C++, Typescript, Rust                                 |
-| Engines                        | Unity, Unreal Engine, .NET                                |
+| Relocation                     | Open to relocation within the U.S.                        |
+
+### Skills
+
+|                                |                                                           |
+|--------------------------------|-----------------------------------------------------------|
+| Languages                      | C#, C++, Typescript                                       |
+| Game Engines                   | Unity, Unreal Engine (familiar)                           |
 | Gameplay                       | Gameplay systems, character controllers, AI, UI, tooling  |
 | Live ops                       | In-app purchases, offer systems, analytics, A/B testing   |
 | Performance                    | Memory profiling, low-end device optimization, build size |
 | Platforms                      | iOS, Android, PC                                          |
-| Other                          | Angular, Qt, Modbus/RS-232/RS-485, Git, CI/CD             |
+| Other                          | Angular, Qt (familiar), Modbus/RS-232/RS-485, Git, CI/CD  |
+| Currently learning             | Rust, Swift, DevOPS                                       |
 
-## Links
+### Experience
 
-### Unity Gameplay Engineer Resume
-* [PDF](https://github.com/martycow/schudaev_resume/blob/709e48fb91d73a96bece979c968159395b7910f4/Unity%20Engineer%20Resume.pdf)
-* [DOCX](https://github.com/martycow/schudaev_resume/blob/709e48fb91d73a96bece979c968159395b7910f4/Unity%20Engineer%20Resume.docx)
+| Company              | Role                              | Type                           | Years     | Project                                       | Note                                                       |
+|----------------------|---------------------------------- |--------------------------------|-----------|-----------------------------------------------|----------------------------------------------------------- |
+| **Visionary Realms** | Unity Gameplay Engineer           | (full-time, contract, remote)  | 2025–2026 | *Pantheon: Rise of the Fallen*                | Old school MMORPG, successor of original *Everquest*       |
+| **Cubic Games**      | Unity Gameplay Engineer           | (full-time, contract, remote)  | 2023–2024 | *Block City Wars 2*                           | 50M+ installs                                              |
+| **Ciprosoft**        | Lead Unity Engineer               | (full-time, contract, remote)  | 2022–2023 | *Unnamed Dragon Game*                         | Made game prototype from scratch, lead team of four        |
+| **ChillBase**        | Unity Gameplay Engineer           | (full-time, contract, on-site) | 2020–2022 | *Combat Quest*                                | 1M+ installs                                               |
+| **MZTA**             | .NET Software & Hardware Engineer | (full-time, contract, on-site) | 2015–2020 | *SuperSCADA*, *KResource*, *USPD*             | Unity-based SCADA, industrial devices, low-level, firmware |
+
+### Education
+
+Bachelor of Science in Information Technology
+
+RTU MIREA (Russian Technical University - Moscow Institute of Radioengineering, Electronics and Automation)
+
+2012 - 2016
+
+### Languages
+
+| Language | Level  |
+|----------|--------|
+| Englisn  | Fluent |
+| Russian  | Native |
