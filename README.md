@@ -17,4 +17,9 @@
 | Relocation          | Possible. WA, CA, CO, MA, IL                  |
 | | |
 
-Here are provided all of my updated resumes
+## Links
+
+### Unity Gameplay Engineer Resume
+* [PDF](https://github.com/martycow/schudaev_resume/blob/709e48fb91d73a96bece979c968159395b7910f4/Unity%20Engineer%20Resume.pdf)
+* [DOCX](https://github.com/martycow/schudaev_resume/blob/709e48fb91d73a96bece979c968159395b7910f4/Unity%20Engineer%20Resume.docx)
+* [MD](https://github.com/martycow/schudaev_resume/blob/709e48fb91d73a96bece979c968159395b7910f4/Unity%20Engineer%20Resume.md)
