@@ -1,132 +1,76 @@
 # Slava Chudaev
 
-## Unity Gameplay Engineer
+**Unity Gameplay Engineer · C# / Unity · Gameplay Systems · Multiplayer & MMO**
 
-Portland, OR · (318) 289-5737 · [schudaev@gmail.com](mailto:schudaev@gmail.com) · [linkedin.com/in/vchudaev](https://www.linkedin.com/in/vchudaev/)
-
+Portland, OR · (318) 289-5737 · schudaev@gmail.com · linkedin.com/in/vchudaev  
 Authorized to work in the U.S. without visa sponsorship.
 
----
+## Profile
 
-## Summary
+Unity Gameplay Engineer with 11 years of professional software development, including 8 years in Unity and 6 shipping games across mobile, PC and MMO. Builds gameplay, multiplayer, UI, data-backed systems and live-ops features end to end. Impact includes tripling MRR on a live title, restoring legacy-device support through memory optimization, and leading a four-engineer team.
 
-Engineer with 11 years of professional software development, 8 of them in Unity and 6 shipping games across mobile, PC and MMO. Gameplay systems, tools and monetization, from prototype to live operations. Tripled monthly revenue on a live title, cut memory footprint to keep legacy devices supported, and led a team of four.
+## Core Expertise
 
----
+- **Engineering:** C# (11 yrs) · Unity (8 yrs) · TypeScript (2 yrs) · C++ (1 yr) · Rust · Unreal Engine (1 yr)
+- **Gameplay:** Core & meta gameplay · multiplayer/network sync · AI/ECS · UI · designer tools · Zenject · Photon · UGUI/NGUI
+- **Live Ops:** Unity IAP · IronSource · AdMob · AppsFlyer · Firebase · in-game offers · battle pass · store payments
+- **Data & Delivery:** SQL · database design · large-scale migration · client-server architecture · CI/CD · automated builds · remote config/DLC
+- **Optimization:** Unity Profiler · Xcode Memory Profiler · RAM reduction · frame-rate stabilization · UI performance
+- **Architecture & Tools:** SOLID · KISS · DRY · DI · design patterns · Google Play Console · App Store Connect · Angular · Tauri 2 · Qt
 
-## Skills
-
-- **Languages** — C# (11 yrs), TypeScript (2 yrs), C++ (1 yr), Rust
-- **Engines** — Unity (8 yrs), Unreal Engine (1 yr)
-- **Unity stack** — UGUI, NGUI, Zenject, Photon, ECS, Unity IAP
-- **Monetization &amp; analytics** — IronSource, AdMob, AppsFlyer, Firebase, in-game offers, battle pass, store payments
-- **Domains** — core &amp; meta gameplay, UI, AI, multiplayer and network sync, designer tools
-- **Data** — SQL, database design, large-scale data migration, client-server architecture
-- **Practices** — SOLID, KISS, DRY, DI, design patterns
-- **CI/CD** — pipeline design, automated builds, remote config and DLC delivery, Google Play Console, App Store Connect
-- **Optimization** — Unity Profiler, Xcode Memory Profiler, RAM reduction, frame-rate stabilization, UI performance
-- **Other** — Angular, Tauri 2, Qt
-
----
-
-
-
-## Experience
+## Professional Experience
 
 ### Visionary Realms — Unity Gameplay Engineer
+**2025–2026 · Portland, OR · Remote**
 
-2025 – 2026 · Portland, OR · Remote
+*Pantheon: Rise of the Fallen — Old-school high-fantasy MMORPG in early access; studio founded by veterans of the original EverQuest team.*
 
-Studio founded by veterans of the original **EverQuest** team.
-
-#### Pantheon: Rise of the Fallen
-
-Old-school high-fantasy MMORPG, currently in early access.
-
-- Owned development of the **mail system** and **market system** end to end — database schema, network serialization, stored procedures, and UI
-- Refactored and tuned the open-world climbing system
-- Built new abilities, including graph node logic and supporting runtime functionality
-- Designed SQL schemas and ran large-scale player data migration across a shared MMO codebase
-
-### Amazon — Fulfillment Center Associate
-
-2025 · Portland, OR
-
-Interim role between engineering positions.
+- Owned mail and market systems end to end — database schema, stored procedures, network serialization and UI.
+- Refactored and tuned the open-world climbing system; built new abilities, including graph-node logic and supporting runtime functionality.
+- Designed SQL schemas and ran a large-scale player data migration across a shared MMO codebase.
 
 ### Cubic Games — Unity Gameplay Engineer
+**2023–2024 · Batumi, Georgia · Remote**
 
-2023 – 2024 · Batumi, Georgia · Remote
+*Block City Wars 2 — Open-world multiplayer mobile game; 50M+ downloads, 4.0+ rating; team of 30+, including 8 programmers.*
 
-Studio known for the mobile FPS **Pixel Gun 3D**.
-
-#### Block City Wars 2
-
-GTA-like open-world multiplayer mobile game. 50M+ downloads, 4.0+ rating. Team of 30+, including 8 programmers.
-
-- Developed behavior-tree **NPC AI** for peaceful and hostile open-world characters using ECS
-- Built weapon and vehicle customization and upgrade systems, plus a character editor with adaptive UI
-- Owned multiplayer support and network synchronization for all delivered features
-- Created designer tools for configuring NPCs, districts, spawners and waypoints
-- Implemented responsive, adaptive UI — windows, popups and VFX — in NGUI
+- Developed behavior-tree NPC AI for peaceful and hostile open-world characters using ECS.
+- Built weapon and vehicle customization/upgrade systems plus a character editor with adaptive UI; owned multiplayer support and network synchronization for delivered features.
+- Created designer tools for configuring NPCs, districts, spawners and waypoints.
+- Implemented responsive, adaptive windows, popups and VFX in NGUI.
 
 ### Ciprosoft — Lead Unity Gameplay Engineer
+**2022–2023 · Tbilisi, Georgia · Remote**
 
-2022 – 2023 · Tbilisi, Georgia · Remote
+*Dragons of Crypto — RPG battler prototype with deep character customization.*
 
-#### Dragons of Crypto
-
-RPG battler prototype with deep character customization.
-
-- **Led a team of 4 developers** — planning, workflow, delivery, and technical hiring interviews
-- Estimated and owned every technical aspect of prototype development
-- Implemented core gameplay: combat, abilities, inventory, VFX and SFX systems
-- Designed a flexible architecture that absorbed frequent design pivots
-- Worked in close interaction with game designers, artists, analysts and management
+- Led a team of 4 developers — planning, workflow, delivery and technical hiring interviews.
+- Estimated and owned the technical delivery of the prototype; implemented combat, abilities, inventory, VFX and SFX systems.
+- Designed a flexible architecture that absorbed frequent design pivots while collaborating closely with design, art, analytics and management.
 
 ### Chillbase — Unity Gameplay Engineer
+**2020–2022 · Moscow, Russia · On-site**
 
-2020 – 2022 · Moscow, Russia · On-site
+*Combat Quest — Bullet-hell 3D action RPG for mobile; 1M+ downloads, 4.5+ rating; team of 15–20.*
 
-#### Combat Quest
-
-Bullet-hell 3D action RPG for mobile. 1M+ downloads, 4.5+ rating. Team of 15–20.
-
-- **Tripled MRR** by reworking the entire in-game offers system
-- Built the PVP mode, tuned the ability system, and created the VFX and SFX systems
-- Implemented the advertising system, in-game offers, battle pass and daily tasks
-- Reworked payment processing across stores and platforms
-- Delivered meta-gameplay: cutscenes, global map, tutorial system
-- **Reduced memory usage to 2 GB**, restoring support for older devices; optimized graphics and UI
-- Owned CI/CD, shipping many iOS and Android releases
+- Tripled MRR by reworking the entire in-game offers system.
+- Built PVP, tuned the ability system, and created VFX/SFX systems; delivered meta-gameplay including cutscenes, global map and tutorial.
+- Implemented advertising, in-game offers, battle pass and daily tasks; reworked payment processing across stores and platforms.
+- Reduced memory usage to 2 GB, restoring support for older devices; optimized graphics and UI.
+- Owned CI/CD and shipped many iOS and Android releases.
 
 ### Moscow Factory of Thermal Automatics — Software and Hardware Engineer
+**2015–2020 · Moscow, Russia · On-site**
 
-2015 – 2020 · Moscow, Russia · On-site
+*SuperSCADA (2018–2020) — Multiplatform SCADA application for PC and mobile built on Unity; prototype won a Skolkovo grant.*
 
-#### SuperSCADA (2018 – 2020)
+- Owned core architecture and implemented a complex IDE-like dockable, adaptive UI.
+- Developed graph and code editors for FBD, LD and ST; tested and deployed across multiple target environments.
+- Earlier work (2015–2018): built an Angular utility-consumption/payment web application and industrial controller firmware with RS232/RS485 and Modbus device support.
 
-Multiplatform SCADA application for PC and mobile, built on **Unity**. The prototype won a **Skolkovo** grant.
+## Education & Languages
 
-- Responsible for core architecture
-- Implemented a complex IDE-like dockable, adaptive UI
-- Developed graph and code editors for **FBD**, **LD** and **ST**
-- Tested and deployed across multiple target environments
+**RTU MIREA — Moscow Institute of Radio Engineering, Electronics and Automation**  
+B.S. Information Technology, 2012–2016
 
-#### Earlier work (2015 – 2018)
-
-- Built an Angular web application for tenants and housing management companies - utility consumption dashboards and payment system integration
-- Developed industrial controller firmware with RS232/RS485 and Modbus device support
-
----
-
-## Education
-
-**RTU MIREA** — Moscow Institute of Radio Engineering, Electronics and Automation
-Bachelor of Science in Information Technology · 2012 – 2016
-
----
-
-## Languages
-
-English — Fluent · Russian — Native
+**Languages:** English — Fluent · Russian — Native
